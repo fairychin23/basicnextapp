@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@react-pdf/renderer": "^4.3.2",
-    "better-auth": "^1.4.9",
+    "better-auth": "^1.5.5",
     "dotenv": "^17.2.3",
     "exceljs": "^4.1.1",
     "lucide-react": "^0.562.0",
@@ -28,6 +28,7 @@
     "babel-plugin-react-compiler": "1.0.0",
     "eslint": "^10.0.1",
     "eslint-config-next": "^0.2.4",
+    "supabase": "^2.78.1",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
