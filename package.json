@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@react-pdf/renderer": "^4.3.2",
+    "@supabase/supabase-js": "^2.101.1",
     "better-auth": "^1.5.5",
     "dotenv": "^17.2.3",
     "exceljs": "^4.1.1",
